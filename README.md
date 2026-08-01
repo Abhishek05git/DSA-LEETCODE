@@ -26,4 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
