@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
