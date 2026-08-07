@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
