@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek05git/DSA-LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
